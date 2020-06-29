@@ -9,6 +9,7 @@ Python IDE
 sklearn
 matplotlib
 numpy
+jupyter notebook
 
 #
 Report any bugs on root03062003@gmail.com
